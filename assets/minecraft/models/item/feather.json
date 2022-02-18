@@ -1,0 +1,164 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/feather/deadmau5_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/feather/top_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/feather/welding_mask"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/feather/mining_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/feather/dog_mask"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/feather/ruby_pickaxe_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/feather/straw_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/feather/cool_sunglasses"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/feather/cigar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/feather/glasses"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/feather/biker_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/feather/cat_ears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/feather/mysterious_hood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/feather/demoniac_red_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/feather/demoniac_turquoise_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/feather/demoniac_purple_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/feather/demoniac_blue_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/feather/demoniac_black_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "item/feather/all_black_cat_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "item/feather/black_cat_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "item/feather/white_cat_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "item/feather/ender_dragon_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "item/feather/witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "item/feather/bat_wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "item/feather/axe_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "item/feather/santa_hat"
+    }
+  ]
+}

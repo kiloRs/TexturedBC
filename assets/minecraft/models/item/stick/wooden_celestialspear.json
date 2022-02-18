@@ -1,0 +1,1126 @@
+{
+	"credit": "Made by phantomcpu",
+	"textures": {
+		"celestialSpear_UV": "custom_3D/wooden_celestialSpearUV"
+	},
+	"elements": [
+		{
+			"name": "Voxels",
+			"from": [7.5, 1.375, 7.625],
+			"to": [8.5, 2.125, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [4, 14.5, 3, 15.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [5.75, 14.5, 5, 15.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [4, 15.25, 5, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [5, 15.25, 5.75, 16], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [3, 16, 4, 15.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4, 14.5, 5, 15.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.625, 1.125, 7.875],
+			"to": [8.375, 1.375, 8.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [4.75, 14.25, 4, 14.5], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [8.625, 13.625, 8.375, 13.875], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [5, 14.25, 5.75, 14.5], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [15.125, 14.25, 15.375, 14.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [3, 14.5, 3.75, 14.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [14.625, 15.5, 15.375, 15.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.625, 1.25, 7.625],
+			"to": [8.375, 1.375, 7.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [8.375, 13.75, 7.625, 13.875], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [10.25, 13, 10, 13.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.625, 13.875, 8.375, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [10, 13.125, 10.25, 13.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [14.625, 16, 15.375, 15.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [12.75, 14.25, 13.5, 14.5], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.625, 1.25, 8.125],
+			"to": [8.375, 1.375, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [8.375, 14, 7.625, 14.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [13.625, 13.625, 13.375, 13.75], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.625, 14.125, 8.375, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [12.125, 13.625, 12.375, 13.75], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [14.625, 15.25, 15.375, 15], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [14.625, 15.25, 15.375, 15.5], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.625, 2.125, 7.75],
+			"to": [8.375, 2.375, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [15.375, 14.75, 14.625, 15], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [15.875, 15.75, 15.375, 16], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [14.625, 14.5, 15.375, 14.75], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [9.25, 14.25, 9.75, 14.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [12.75, 16, 13.5, 15.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [12.75, 15, 13.5, 15.5], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 1, 7.875],
+			"to": [8.25, 1.125, 8.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [11.125, 14, 10.625, 14.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [14.625, 13.625, 14.375, 13.75], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10.625, 13.875, 11.125, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [14.125, 13.625, 14.375, 13.75], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [15.375, 15.5, 15.875, 15.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [15.375, 15.5, 15.875, 15.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 1.125, 7.75],
+			"to": [8.25, 1.25, 7.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [11.625, 13.875, 11.125, 14], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [11.875, 12.75, 11.75, 12.875], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [11.125, 13.75, 11.625, 13.875], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [11.875, 12.75, 12, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.125, 14.125, 11.625, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.625, 13.75, 11.125, 13.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 1.125, 8.125],
+			"to": [8.25, 1.25, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [12.875, 13.625, 12.375, 13.75], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12.25, 13.125, 12.125, 13.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [12.875, 13.875, 13.375, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [12.125, 13, 12.25, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [12.375, 13.875, 12.875, 13.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [12.375, 13.875, 12.875, 14], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 2.125, 7.625],
+			"to": [8.25, 2.375, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [15.125, 14.25, 14.625, 14.5], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [16, 14, 15.875, 14.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [4.625, 13.75, 5.125, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [15.875, 14.375, 16, 14.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [4.125, 13.375, 4.625, 13.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4.125, 13.5, 4.625, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 2.125, 8.25],
+			"to": [8.25, 2.375, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [4.625, 14, 4.125, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7, 13.125, 6.875, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [4.125, 13.75, 4.625, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7.375, 13.125, 7.5, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [4.125, 13, 4.625, 12.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4.125, 13, 4.625, 13.125], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 2.375, 7.75],
+			"to": [8.25, 11.125, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2, 7.25, 1.5, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [1, 7.25, 0.5, 16], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [1, 7.25, 1.5, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [0, 7.25, 0.5, 16], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [12.75, 15, 13.25, 14.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [6.25, 14.375, 6.75, 14.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 9.375, 7.625],
+			"to": [8.25, 9.875, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 0, 2, 0.5], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [5, 12.875, 4.875, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [5.75, 14.375, 6.25, 14.875], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [4.75, 12.875, 4.875, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [4.75, 13.5, 5.25, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4.75, 13.5, 5.25, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 9.375, 8.25],
+			"to": [8.25, 9.875, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.25, 14.375, 6.75, 14.875], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [4.75, 13.125, 4.625, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [9.25, 14.5, 9.75, 15], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [5, 12.875, 5.125, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [5.25, 13.5, 5.75, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [5.25, 13.5, 5.75, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.125, 7.625],
+			"to": [8.25, 10.375, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.125, 13.75, 6.625, 14], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7.25, 13.25, 7.125, 13.5], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6.625, 14, 7.125, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7, 13.375, 7.125, 13.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [4.125, 13.5, 4.625, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4.125, 13.125, 4.625, 13.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.125, 8.25],
+			"to": [8.25, 10.375, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.625, 13.75, 6.125, 14], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7.5, 13.375, 7.375, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6.125, 14, 6.625, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7.25, 13.25, 7.375, 13.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [12.875, 13.875, 13.375, 13.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [12.875, 13.625, 13.375, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.5, 7.5],
+			"to": [8.25, 14.5, 7.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 3.25, 0, 7.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [2.875, 10.25, 2.75, 14.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [0.5, 3.25, 1, 7.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [2.75, 6.25, 2.875, 10.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.625, 13.875, 12.125, 13.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [11.625, 13.625, 12.125, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.5, 7.625],
+			"to": [8.25, 11.375, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [11.25, 14.25, 10.75, 15.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.25, 2.5, 3.125, 3.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10.75, 15.125, 11.25, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 1.625, 3.25, 2.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.125, 13.75, 11.625, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [11.625, 13.875, 12.125, 14], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.5, 8.25],
+			"to": [8.25, 11.375, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [12.25, 15.125, 11.75, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [14.625, 14.25, 14.375, 15.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [9.75, 14.25, 10.25, 15.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [14.375, 15.125, 14.625, 16], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [5.625, 14.25, 6.125, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [5.625, 13.75, 6.125, 14], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.625, 6.875],
+			"to": [8.25, 11.75, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.25, 14.875, 6.75, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.125, 0.375, 3, 1.5], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [1.5, 0.375, 2, 1.5], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 10.25, 3.25, 11.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.625, 14.125, 10.125, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.625, 14.125, 11.125, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.625, 9],
+			"to": [8.25, 11.75, 9.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.75, 14.875, 6.25, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.25, 12.5, 3.125, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [5.75, 14.875, 6.25, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 11.375, 3.25, 12.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.125, 14, 9.625, 13.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.625, 14.125, 10.125, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.75, 6.75],
+			"to": [8.25, 11.5, 6.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.75, 14.25, 7.25, 15], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [4, 12.875, 3.875, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.75, 14.25, 8.25, 15], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.75, 12.875, 3.875, 13.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [5.625, 13.75, 6.125, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [6.125, 13.625, 6.625, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.75, 9.125],
+			"to": [8.25, 11.5, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [8.75, 14.25, 8.25, 15], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [4.125, 12.875, 4, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [8.75, 14.25, 9.25, 15], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 0, 3.25, 0.75], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [15.375, 14.375, 15.875, 14.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4.125, 13.625, 4.625, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.875, 7],
+			"to": [8.25, 11.875, 7.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.75, 15, 7.25, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.25, 4.25, 3.125, 5.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.75, 15, 8.25, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 5.25, 3.25, 6.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [6.25, 14.375, 6.75, 14.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [6.75, 14.25, 7.25, 14.375], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 10.875, 8.875],
+			"to": [8.25, 11.875, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 0, 1, 1], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.25, 7.25, 3.125, 8.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [8.75, 15, 9.25, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 8.25, 3.25, 9.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [5.75, 14.375, 6.25, 14.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [5.25, 13.25, 5.75, 13.375], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11, 7.125],
+			"to": [8.25, 11.875, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [12.75, 14.25, 12.25, 15.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [13.875, 15.125, 13.5, 16], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [12.25, 15.125, 12.75, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [13.5, 14.25, 13.875, 15.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [15.375, 15, 15.875, 14.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [1.5, 0, 2, 0.375], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11, 8.5],
+			"to": [8.25, 14.25, 8.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [1, 0, 0.5, 3.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [2.625, 0, 2.5, 3.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [0, 0, 0.5, 3.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [2.625, 0, 2.75, 3.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [5.125, 13.75, 5.625, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4.625, 13.625, 5.125, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11, 8.625],
+			"to": [8.25, 12, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [8.75, 15, 8.25, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.25, 6.25, 3.125, 7.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [9.25, 15, 9.75, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 9.25, 3.25, 10.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [7.625, 13.75, 8.125, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [6.625, 13.625, 7.125, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11, 8.75],
+			"to": [8.25, 11.875, 8.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [11.75, 14.25, 11.25, 15.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.25, 3.375, 3.125, 4.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [11.25, 15.125, 11.75, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.375, 12.75, 3.5, 13.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.125, 14.125, 9.625, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.125, 14.125, 9.625, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11.125, 7.875],
+			"to": [8.25, 11.375, 8.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.625, 14, 7.125, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [5, 14.25, 4.75, 14.5], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [15.375, 15, 15.875, 15.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.75, 14.25, 4, 14.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [4.625, 14.25, 5.125, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [15.375, 14.375, 15.875, 14.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11.375, 8.375],
+			"to": [8.25, 14.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 4.125, 1, 7.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [2.875, 3.125, 2.75, 6.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [1, 1, 1.5, 4.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [2.75, 0, 2.875, 3.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.125, 13.75, 9.625, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.125, 13.75, 9.625, 13.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11.875, 7.25],
+			"to": [8.25, 12, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [10.125, 13.625, 9.625, 13.75], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [8.375, 12.875, 8.125, 13], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10.125, 14.125, 10.625, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [8.125, 13, 8.375, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [5.125, 14, 5.625, 13.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [5.125, 14, 5.625, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11.875, 7.625],
+			"to": [8.25, 14.75, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2, 1.5, 1.5, 4.375], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3, 5.625, 2.875, 8.5], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [2, 13.125, 2.5, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [2.875, 11.375, 3, 14.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10.125, 13.75, 10.625, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.125, 13.75, 10.625, 13.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 11.875, 8.25],
+			"to": [8.25, 14.75, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 10.25, 2, 13.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3, 2.75, 2.875, 5.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [1.5, 4.375, 2, 7.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [2.875, 8.5, 3, 11.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.125, 14.25, 11.625, 14.125], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.625, 13.625, 11.125, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 12, 7.375],
+			"to": [8.25, 14.25, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 8, 2, 10.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.125, 3.75, 3, 6], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [2, 5.75, 2.5, 8], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3, 1.5, 3.125, 3.75], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.625, 14.125, 12.125, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [11.625, 14.125, 12.125, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 12.25, 7.25],
+			"to": [8.25, 14, 7.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [3, 14.25, 2.5, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [14.125, 14.25, 14, 16], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [2, 0.5, 2.5, 2.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [14.25, 14.25, 14.375, 16], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [12.375, 14.125, 12.875, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [12.375, 14.125, 12.875, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 12.25, 8.625],
+			"to": [8.25, 14, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 4, 2, 5.75], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [14.25, 14.25, 14.125, 16], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [2, 2.25, 2.5, 4], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [13.875, 14.25, 14, 16], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [12.875, 14.125, 13.375, 14], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [12.875, 14.125, 13.375, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 12.5, 7.125],
+			"to": [8.25, 13.375, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [10.75, 14.25, 10.25, 15.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.375, 12.75, 3.25, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10.25, 15.125, 10.75, 16], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.5, 12.75, 3.625, 13.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.625, 13.875, 10.125, 13.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.625, 13.875, 10.125, 14], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.75, 12.5, 8.75],
+			"to": [8.25, 13.375, 8.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [10.25, 15.125, 9.75, 16], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.75, 12.75, 3.625, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [11.75, 14.25, 12.25, 15.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.125, 0.75, 3.25, 1.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [15.375, 14, 15.875, 13.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [4.125, 12.75, 4.625, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 9.875, 7.625],
+			"to": [8.125, 10.125, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [10.375, 13.875, 10.125, 14.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [8.75, 13.125, 8.625, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10.375, 13.875, 10.625, 14.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [8.625, 13.375, 8.75, 13.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [8.375, 13.375, 8.625, 13.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [8.375, 13.375, 8.625, 13.5], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 9.875, 8.25],
+			"to": [8.125, 10.125, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [15.625, 13.625, 15.375, 13.875], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [8.875, 12.875, 8.75, 13.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [14.375, 13.75, 14.625, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [8.625, 12.875, 8.75, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [8.75, 13.5, 9, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [8.75, 13.5, 9, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.375, 7.625],
+			"to": [8.125, 10.5, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [9.5, 13, 9.25, 13.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12.125, 13.375, 12, 13.5], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [9.25, 12.875, 9.5, 13], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [12, 13.5, 12.125, 13.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9, 13.625, 9.25, 13.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [8.75, 12.75, 9, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.375, 8.25],
+			"to": [8.125, 10.5, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [9.75, 13.125, 9.5, 13.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12.25, 13.5, 12.125, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [9.5, 13, 9.75, 13.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [12, 12.75, 12.125, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.5, 13.625, 9.75, 13.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.25, 12.75, 9.5, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.5, 6.75],
+			"to": [8.125, 10.75, 6.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [12.375, 13.75, 12.125, 14], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [9.875, 13.125, 9.75, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [12.125, 14, 12.375, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [8.875, 12.875, 9, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.5, 12.875, 9.75, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.5, 12.875, 9.75, 13], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.5, 6.875],
+			"to": [8.125, 10.625, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [10.25, 13.375, 10, 13.5], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [5.25, 12.875, 5.125, 13], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10, 13.25, 10.25, 13.375], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [4.875, 12.75, 5, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.75, 13, 10, 12.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.75, 13, 10, 13.125], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.5, 9],
+			"to": [8.125, 10.625, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 13.5, 10.25, 13.625], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [10.75, 13.5, 10.5, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10.25, 13.375, 10.5, 13.5], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [10.25, 12.75, 10.5, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [13.375, 14, 13.625, 13.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [13.375, 14, 13.625, 14.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.625, 9.125],
+			"to": [8.125, 10.75, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [11.125, 13.25, 10.875, 13.375], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [8.75, 12.75, 8.625, 12.875], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [10.875, 13.125, 11.125, 13.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7.5, 12.75, 7.625, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10.5, 12.875, 10.75, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.5, 12.875, 10.75, 13], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.75, 7],
+			"to": [8.125, 10.875, 7.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [11.375, 12.875, 11.125, 13], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12.125, 12.875, 12, 13], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [11.125, 12.75, 11.375, 12.875], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [12, 13, 12.125, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.125, 13.625, 11.375, 13.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.875, 12.75, 11.125, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 10.75, 8.875],
+			"to": [8.125, 10.875, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [12, 13.375, 11.75, 13.5], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [16, 13.875, 15.875, 14], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [11.75, 13.25, 12, 13.375], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [15.875, 14.25, 16, 14.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.5, 13.25, 11.75, 13.125], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [11.5, 13.25, 11.75, 13.375], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.125, 7.75],
+			"to": [8.125, 11.375, 7.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [13.875, 14, 13.625, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [16, 15.5, 15.875, 15.75], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [13.625, 13.75, 13.875, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [15.875, 15.75, 16, 16], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [8.125, 13.75, 8.375, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [13.25, 14.5, 13.5, 14.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.125, 8.125],
+			"to": [8.125, 11.375, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [14.125, 14, 13.875, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [16, 15, 15.875, 15.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [13.875, 13.75, 14.125, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [15.875, 15.25, 16, 15.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [13.875, 13.75, 14.125, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [13.625, 13.625, 13.875, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.375, 7.625],
+			"to": [8.125, 11.5, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [15.375, 13.625, 15.125, 13.75], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [4.875, 12.75, 4.75, 12.875], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [5, 12.75, 5.25, 12.875], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [4, 12.75, 4.125, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [14.875, 13.75, 15.125, 13.625], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [14.625, 13.625, 14.875, 13.75], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.375, 8.25],
+			"to": [8.125, 11.5, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 12.75, 6.25, 12.875], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [11.5, 12.75, 11.375, 12.875], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6.5, 12.75, 6.75, 12.875], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [10.75, 12.75, 10.875, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [6, 12.875, 6.25, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [5.75, 12.75, 6, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.5, 6.75],
+			"to": [8.125, 11.75, 6.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [14.375, 14, 14.125, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [6.875, 13.125, 6.75, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [14.125, 13.75, 14.375, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [15.875, 13.625, 16, 13.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [6.75, 13.5, 7, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [6.75, 13.5, 7, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.5, 9.125],
+			"to": [8.125, 11.75, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [14.625, 14, 14.375, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7.125, 12.875, 7, 13.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [15.625, 13.625, 15.875, 13.875], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7, 13.125, 7.125, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [6.75, 13, 7, 12.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [6.75, 13, 7, 13.125], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.625, 7.625],
+			"to": [8.125, 11.875, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [14.875, 14, 14.625, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7.375, 13, 7.25, 13.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [14.625, 13.75, 14.875, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7.125, 13, 7.25, 13.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [7.125, 13.625, 7.375, 13.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [6.75, 12.75, 7, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.625, 8.25],
+			"to": [8.125, 11.875, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [15.125, 14, 14.875, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7.625, 13.375, 7.5, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [14.875, 13.75, 15.125, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7.375, 12.875, 7.5, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [7.125, 12.875, 7.375, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [7.125, 12.875, 7.375, 13], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.75, 6.875],
+			"to": [8.125, 11.875, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.875, 13.25, 7.625, 13.375], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12.25, 13.25, 12.125, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.625, 13.125, 7.875, 13.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [12.125, 13.375, 12.25, 13.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [7.625, 13.5, 7.875, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [7.625, 13.5, 7.875, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.75, 9],
+			"to": [8.125, 11.875, 9.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.875, 12.75, 7.625, 12.875], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [4, 12.75, 3.875, 12.875], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.875, 13.5, 8.125, 13.625], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3.75, 12.75, 3.875, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [7.625, 13, 7.875, 12.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [7.625, 13, 7.875, 13.125], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.875, 7.125],
+			"to": [8.125, 12, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [8.125, 13.125, 7.875, 13.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7.5, 12.75, 7.375, 12.875], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.875, 13, 8.125, 13.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7, 12.75, 7.125, 12.875], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [7.875, 13.375, 8.125, 13.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [7.875, 13.375, 8.125, 13.5], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 11.875, 8.75],
+			"to": [8.125, 12, 8.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [8.375, 13.5, 8.125, 13.625], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12, 13, 11.875, 13.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [8.125, 13.375, 8.375, 13.5], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [11.875, 13.125, 12, 13.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [7.875, 12.875, 8.125, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [7.875, 12.875, 8.125, 13], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12, 7.25],
+			"to": [8.125, 12.25, 7.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [15.375, 14, 15.125, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [7.625, 12.875, 7.5, 13.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [15.125, 13.75, 15.375, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [7.5, 13.125, 7.625, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [8.125, 13.25, 8.375, 13.125], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [8.125, 13.25, 8.375, 13.375], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12, 8.625],
+			"to": [8.125, 12.25, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [15.625, 14, 15.375, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [8.625, 13, 8.5, 13.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [15.625, 14, 15.875, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [8.375, 13, 8.5, 13.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [8.375, 13.625, 8.625, 13.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [8.125, 12.75, 8.375, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12.25, 7.75],
+			"to": [8.125, 15, 7.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2.75, 6, 2.5, 8.75], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.125, 11.5, 3, 14.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [2.5, 8.75, 2.75, 11.5], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [3, 8.75, 3.125, 11.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [8.375, 12.875, 8.625, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [8.375, 12.875, 8.625, 13], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12.25, 8.125],
+			"to": [8.125, 15, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2.75, 11.5, 2.5, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.125, 6, 3, 8.75], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [2.5, 3.25, 2.75, 6], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [2.875, 0, 3, 2.75], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [8.75, 13.25, 9, 13.125], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [8.75, 13.25, 9, 13.375], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12.375, 7.125],
+			"to": [8.125, 12.5, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [9.25, 13.125, 9, 13.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12, 12.875, 11.875, 13], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [9, 13, 9.25, 13.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [11.75, 12.875, 11.875, 13], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9, 13.375, 9.25, 13.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9, 13.375, 9.25, 13.5], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12.375, 8.75],
+			"to": [8.125, 12.5, 8.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [9.5, 13.5, 9.25, 13.625], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [12.125, 13.125, 12, 13.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [9.25, 13.375, 9.5, 13.5], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [12, 13.25, 12.125, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9, 12.875, 9.25, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9, 12.875, 9.25, 13], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12.5, 7],
+			"to": [8.125, 13.125, 7.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [3.875, 13.625, 3.625, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [9, 13.625, 8.875, 14.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [3.375, 13.625, 3.625, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [8.75, 13.625, 8.875, 14.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.25, 13.25, 9.5, 13.125], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.25, 13.25, 9.5, 13.375], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 12.5, 8.875],
+			"to": [8.125, 13.125, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [3.375, 13.625, 3.125, 14.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [8.75, 13.625, 8.625, 14.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [3.875, 13.625, 4.125, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [9, 13.625, 9.125, 14.25], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.5, 13.375, 9.75, 13.25], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.5, 13.375, 9.75, 13.5], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 13.375, 7.125],
+			"to": [8.125, 13.75, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [13.5, 14.625, 13.25, 15], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [3.125, 0, 3, 0.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [7.125, 13.625, 7.375, 14], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [15.875, 14.625, 16, 15], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [9.75, 13.5, 10, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.75, 13.5, 10, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 13.375, 8.75],
+			"to": [8.125, 13.75, 8.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [7.625, 13.625, 7.375, 14], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [5.25, 13, 5.125, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [8.375, 13.875, 8.625, 14.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [4.625, 12.75, 4.75, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10, 13.625, 10.25, 13.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [9.75, 12.75, 10, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14, 7.25],
+			"to": [8.125, 14.25, 7.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 13, 5.25, 13.25], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [10.375, 13.125, 10.25, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [5.5, 13, 5.75, 13.25], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [9.875, 13.125, 10, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10, 12.875, 10.25, 12.75], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10, 12.875, 10.25, 13], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14, 8.625],
+			"to": [8.125, 14.25, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 12.75, 5.25, 13], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [10.625, 13.25, 10.5, 13.5], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [5.5, 12.75, 5.75, 13], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [10.375, 13.125, 10.5, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10.25, 13, 10.5, 12.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.25, 13, 10.5, 13.125], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14.25, 7.375],
+			"to": [8.125, 14.5, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6, 13.375, 5.75, 13.625], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [10.875, 13.375, 10.75, 13.625], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [5.75, 13.125, 6, 13.375], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [10.625, 13.25, 10.75, 13.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10.5, 13.125, 10.75, 13], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.5, 13.125, 10.75, 13.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14.25, 8.5],
+			"to": [8.125, 14.5, 8.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6, 12.875, 5.75, 13.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [10.875, 12.875, 10.75, 13.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6, 13.375, 6.25, 13.625], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [10.75, 13.125, 10.875, 13.375], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10.875, 13.5, 11.125, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.875, 13.5, 11.125, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14.5, 7.5],
+			"to": [8.125, 14.75, 7.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.25, 13.125, 6, 13.375], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [11.375, 13.25, 11.25, 13.5], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6, 12.875, 6.25, 13.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [11.125, 13.25, 11.25, 13.5], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [10.875, 13, 11.125, 12.875], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [10.875, 13, 11.125, 13.125], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14.5, 8.375],
+			"to": [8.125, 14.75, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 13.375, 6.25, 13.625], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [11.5, 13.125, 11.375, 13.375], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6.25, 13.125, 6.5, 13.375], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [11.375, 13.375, 11.5, 13.625], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.125, 13.125, 11.375, 13], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [11.125, 13.125, 11.375, 13.25], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14.75, 7.625],
+			"to": [8.125, 15, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 12.875, 6.25, 13.125], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [11.625, 12.875, 11.5, 13.125], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6.5, 13.375, 6.75, 13.625], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [11.375, 12.875, 11.5, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.5, 13.5, 11.75, 13.375], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [11.5, 13.5, 11.75, 13.625], "texture": "#celestialSpear_UV"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [7.875, 14.75, 8.25],
+			"to": [8.125, 15, 8.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.75, 13.125, 6.5, 13.375], "texture": "#celestialSpear_UV"},
+				"east": {"uv": [11.875, 13, 11.75, 13.25], "texture": "#celestialSpear_UV"},
+				"south": {"uv": [6.5, 12.875, 6.75, 13.125], "texture": "#celestialSpear_UV"},
+				"west": {"uv": [11.625, 12.875, 11.75, 13.125], "texture": "#celestialSpear_UV"},
+				"up": {"uv": [11.75, 13.625, 12, 13.5], "texture": "#celestialSpear_UV"},
+				"down": {"uv": [11.5, 12.75, 11.75, 12.875], "texture": "#celestialSpear_UV"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.5, 0],
+			"scale": [2.7, 2.7, 2.7]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.5, 0],
+			"scale": [2.7, 2.7, 2.7]
+		},
+		"firstperson_righthand": {
+			"scale": [2.7, 2.7, 2.7]
+		},
+		"firstperson_lefthand": {
+			"scale": [2.7, 2.7, 2.7]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 90, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/source_models/2xhandheld",
+	"textures": {
+		"layer0": "item/hidden_sprites/cake_longsword"
+	}
+}

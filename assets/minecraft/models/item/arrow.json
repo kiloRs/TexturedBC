@@ -1,0 +1,17 @@
+{
+	"parent": "builtin/generated",
+	"textures": {
+	"layer0": "item/arrow"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/arrow/blue_arrow"},
+	{"predicate": {"custom_model_data":2}, "model": "item/arrow/blue_arrow_2"},
+	{"predicate": {"custom_model_data":3}, "model": "item/arrow/blue_arrow_3"},
+	{"predicate": {"custom_model_data":4}, "model": "item/arrow/blue_arrow_4"},
+	{"predicate": {"custom_model_data":5}, "model": "item/arrow/b_arrow"},
+	{"predicate": {"custom_model_data":6}, "model": "item/arrow/b_arrow_2"},
+	{"predicate": {"custom_model_data":7}, "model": "item/arrow/b_arrow_3"},
+	{"predicate": {"custom_model_data":8}, "model": "item/arrow/b_arrow_4"}
+	]
+   }

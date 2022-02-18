@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/book"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/book/black_book" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/book/black_ebook" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/book/blue_ebook" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/book/brown_ebook" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/book/green_book" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/book/green_ebook" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/book/grey_book" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/book/purple_book" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/book/red_book" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/book/white_ebook" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/book/worn_book" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/book/closed_scroll" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/book/open_scroll" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/book/mysterious_book" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/book/mysterious_book_decrypted" }
+		]
+}

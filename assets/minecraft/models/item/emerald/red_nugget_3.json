@@ -1,0 +1,7 @@
+{
+  "comment":"NONE",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/drops/red_nugget_3"
+  }
+}

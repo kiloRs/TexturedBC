@@ -1,0 +1,6 @@
+{
+	"parent": "item/source_models/gen_shield_blocking",
+	"textures": {
+		"layer0": "item/hidden_sprites/ccaa_shield"
+	}
+}

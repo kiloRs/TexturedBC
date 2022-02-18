@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/paper/unlocked_padlock_v2"
+  }
+}

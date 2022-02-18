@@ -1,0 +1,30 @@
+{
+     "lord_demon.attack1":
+	 {"category": "master","sounds": [{"name": "lord_demon/attack1","stream": false}]},
+     "lord_demon.attack2":
+	 {"category": "master","sounds": [{"name": "lord_demon/attack2","stream": false}]},
+     "lord_demon.charge_hit":
+	 {"category": "master","sounds": [{"name": "lord_demon/charge_hit","stream": false}]},
+     "lord_demon.charge_hit1":
+	 {"category": "master","sounds": [{"name": "lord_demon/charge_hit1","stream": false}]},
+     "lord_demon.claw_attack":
+	 {"category": "master","sounds": [{"name": "lord_demon/claw_attack","stream": false}]},
+     "lord_demon.claw_summoning":
+	 {"category": "master","sounds": [{"name": "lord_demon/claw_summoning","stream": false}]},
+     "lord_demon.footstep":
+	 {"category": "master","sounds": [{"name": "lord_demon/footstep","stream": false}]},
+     "lord_demon.hit1":
+	 {"category": "master","sounds": [{"name": "lord_demon/hit1","stream": false}]},
+     "lord_demon.hit2":
+	 {"category": "master","sounds": [{"name": "lord_demon/hit2","stream": false}]},
+     "lord_demon.minion_spawning":
+	 {"category": "master","sounds": [{"name": "lord_demon/minion_spawning","stream": false}]},
+     "lord_demon.resurrect":
+	 {"category": "master","sounds": [{"name": "lord_demon/resurrect","stream": false}]},
+     "lord_demon.rocks":
+	 {"category": "master","sounds": [{"name": "lord_demon/rocks","stream": false}]},
+     "lord_demon.sword_hit":
+	 {"category": "master","sounds": [{"name": "lord_demon/sword_hit","stream": false}]},
+     "lord_demon.thorns":
+	 {"category": "master","sounds": [{"name": "lord_demon/thorns","stream": false}]}
+}

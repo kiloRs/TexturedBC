@@ -1,0 +1,6 @@
+{
+	"parent": "item/holding",
+	"textures": {
+		"layer0": "item/iron_ingot/fossilized_gold_chunk"
+	}
+}

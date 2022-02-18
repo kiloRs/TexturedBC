@@ -1,0 +1,561 @@
+
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/iron_sword/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/iron_sword/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/iron_sword/3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/iron_sword/4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/iron_sword/5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "item/iron_sword/6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "item/iron_sword/7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "item/iron_sword/8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "item/iron_sword/9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "item/iron_sword/10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "item/iron_sword/11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "item/iron_sword/12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "item/iron_sword/13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "item/iron_sword/14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "item/iron_sword/15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "item/iron_sword/16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "item/iron_sword/17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "item/iron_sword/18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "item/iron_sword/19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "item/iron_sword/20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "item/iron_sword/21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "item/iron_sword/22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "item/iron_sword/23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "item/iron_sword/24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "item/iron_sword/25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "item/iron_sword/26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "item/iron_sword/27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "item/iron_sword/28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "item/iron_sword/29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "item/iron_sword/30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "item/iron_sword/31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "item/iron_sword/32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "item/iron_sword/33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "item/iron_sword/34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "item/iron_sword/35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "item/iron_sword/36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "item/iron_sword/37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "item/iron_sword/38"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "item/iron_sword/39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "item/iron_sword/40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "item/iron_sword/41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "item/iron_sword/42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "item/iron_sword/43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "item/iron_sword/44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "item/iron_sword/45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "item/iron_sword/46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "item/iron_sword/47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "item/iron_sword/48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "item/iron_sword/49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "item/iron_sword/50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "item/iron_sword/51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "item/iron_sword/52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "item/iron_sword/53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "item/iron_sword/54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "item/iron_sword/55"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "item/iron_sword/56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "item/iron_sword/57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "item/iron_sword/58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "item/iron_sword/59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "item/iron_sword/60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "item/iron_sword/61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "item/iron_sword/62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "item/iron_sword/63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "item/iron_sword/64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "item/iron_sword/65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "item/iron_sword/66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "item/iron_sword/67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "item/iron_sword/68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "item/iron_sword/69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "item/iron_sword/70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "item/iron_sword/71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "item/iron_sword/72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "item/iron_sword/73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "item/iron_sword/74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "item/iron_sword/75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "item/iron_sword/76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "item/iron_sword/77"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "item/iron_sword/78"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "item/iron_sword/79"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "item/iron_sword/80"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "item/iron_sword/81"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "item/iron_sword/82"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "item/iron_sword/83"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "item/iron_sword/84"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "item/iron_sword/85"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "item/iron_sword/86"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "item/iron_sword/87"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "item/iron_sword/88"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "item/iron_sword/89"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "item/iron_sword/90"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 91
+			},
+			"model": "item/iron_sword/91"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "item/iron_sword/92"
+		}		
+	]
+}

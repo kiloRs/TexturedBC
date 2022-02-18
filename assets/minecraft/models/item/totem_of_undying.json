@@ -1,0 +1,74 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/totem_of_undying"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/totem_of_undying/arcane_ring"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/totem_of_undying/blue_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/totem_of_undying/light_blue_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/totem_of_undying/turquoise_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/totem_of_undying/purple_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/totem_of_undying/green_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/totem_of_undying/red_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/totem_of_undying/black_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/totem_of_undying/white_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/totem_of_undying/golden_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/totem_of_undying/marriage_ring"
+    }
+  ]
+}

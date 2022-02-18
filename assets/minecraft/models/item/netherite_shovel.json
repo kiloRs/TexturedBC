@@ -1,0 +1,33 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"item/netherite_shovel"
+   },
+     "overrides": [
+     { "predicate": { "custom_model_data": 1}, "model": "item/netherite_shovel/steel_shovel" },
+         {"predicate": {"custom_model_data": 2}, "model": "item/netherite_shovel/steel_shovel_2"},
+         {"predicate": {"custom_model_data": 3}, "model": "item/netherite_shovel/steel_shovel_3"},
+         {"predicate": {"custom_model_data": 4}, "model": "item/netherite_shovel/copper_shovel"},
+         {"predicate": {"custom_model_data": 5}, "model": "item/netherite_shovel/copper_shovel_2"},
+         {"predicate": {"custom_model_data": 6}, "model": "item/netherite_shovel/copper_shovel_3"},
+         {"predicate": {"custom_model_data": 7}, "model": "item/netherite_shovel/bronze_shovel"},
+         {"predicate": {"custom_model_data": 8}, "model": "item/netherite_shovel/bronze_shovel_2"},
+         {"predicate": {"custom_model_data": 9}, "model": "item/netherite_shovel/bronze_shovel_3"},
+         {"predicate": {"custom_model_data": 10}, "model": "item/netherite_shovel/aluminum_shovel"},
+         {"predicate": {"custom_model_data": 11}, "model": "item/netherite_shovel/aluminum_shovel_2"},
+         {"predicate": {"custom_model_data": 12}, "model": "item/netherite_shovel/aluminum_shovel_3"},
+         {"predicate": {"custom_model_data": 13}, "model": "item/netherite_shovel/amethyst_shovel"},
+         {"predicate": {"custom_model_data": 14}, "model": "item/netherite_shovel/amethyst_shovel_2"},
+         {"predicate": {"custom_model_data": 15}, "model": "item/netherite_shovel/amethyst_shovel_3"},
+         {"predicate": {"custom_model_data": 16}, "model": "item/netherite_shovel/ruby_shovel"},
+         {"predicate": {"custom_model_data": 17}, "model": "item/netherite_shovel/ruby_shovel_2"},
+         {"predicate": {"custom_model_data": 18}, "model": "item/netherite_shovel/ruby_shovel_3"},
+         {"predicate": {"custom_model_data": 19}, "model": "item/netherite_shovel/spinel_shovel"},
+         {"predicate": {"custom_model_data": 20}, "model": "item/netherite_shovel/spinel_shovel_2"},
+         {"predicate": {"custom_model_data": 21}, "model": "item/netherite_shovel/spinel_shovel_3"},
+         {"predicate": {"custom_model_data": 22}, "model": "item/netherite_shovel/kanari_shovel"},
+         {"predicate": {"custom_model_data": 23}, "model": "item/netherite_shovel/kanari_shovel_2"},
+         {"predicate": {"custom_model_data": 24}, "model": "item/netherite_shovel/kanari_shovel_3"}
+      ] 
+ 
+ }

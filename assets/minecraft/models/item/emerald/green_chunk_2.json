@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld_custom",
+  "textures": {
+    "layer0": "item/drops/green_chunks_2"
+  }
+}
