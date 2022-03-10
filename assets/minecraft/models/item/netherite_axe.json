@@ -1,0 +1,38 @@
+{
+  "parent":"item/handheld",
+  "textures":{
+     "layer0":"item/netherite_axe"
+  },
+    "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "item/netherite_axe/steel_axe" },
+        {"predicate": {"custom_model_data": 2}, "model": "item/netherite_axe/steel_axe_2"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/netherite_axe/steel_axe_3"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/netherite_axe/copper_axe"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/netherite_axe/copper_axe_2"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/netherite_axe/copper_axe_3"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/netherite_axe/bronze_axe"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/netherite_axe/bronze_axe_2"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/netherite_axe/bronze_axe_3"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/netherite_axe/aluminum_axe"},
+        {"predicate": {"custom_model_data": 11}, "model": "item/netherite_axe/aluminum_axe_2"},
+        {"predicate": {"custom_model_data": 12}, "model": "item/netherite_axe/aluminum_axe_3"},
+        {"predicate": {"custom_model_data": 13}, "model": "item/netherite_axe/amethyst_axe"},
+        {"predicate": {"custom_model_data": 14}, "model": "item/netherite_axe/amethyst_axe_2"},
+        {"predicate": {"custom_model_data": 15}, "model": "item/netherite_axe/amethyst_axe_3"},
+        {"predicate": {"custom_model_data": 16}, "model": "item/netherite_axe/ruby_axe"},
+        {"predicate": {"custom_model_data": 17}, "model": "item/netherite_axe/ruby_axe_2"},
+        {"predicate": {"custom_model_data": 18}, "model": "item/netherite_axe/ruby_axe_3"},
+        {"predicate": {"custom_model_data": 19}, "model": "item/netherite_axe/spinel_axe"},
+        {"predicate": {"custom_model_data": 20}, "model": "item/netherite_axe/spinel_axe_2"},
+        {"predicate": {"custom_model_data": 21}, "model": "item/netherite_axe/spinel_axe_3"},
+        {"predicate": {"custom_model_data": 22}, "model": "item/netherite_axe/kanari_axe"},
+        {"predicate": {"custom_model_data": 23}, "model": "item/netherite_axe/kanari_axe_2"},
+        {"predicate": {"custom_model_data": 24}, "model": "item/netherite_axe/kanari_axe_3"},
+
+        {"predicate": {"custom_model_data": 1000}, "model": "item/netherite_axe/netherite_axe"},
+        {"predicate": {"custom_model_data": 1001}, "model": "item/netherite_axe/diamond_axe"},
+        {"predicate": {"custom_model_data": 1002}, "model": "item/netherite_axe/golden_axe"},
+        {"predicate": {"custom_model_data": 1003}, "model": "item/netherite_axe/iron_axe"}
+      ]
+
+}

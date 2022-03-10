@@ -1,0 +1,6 @@
+{
+  "parent": "item/holding",
+  "textures": {
+    "layer0": "item/iron_ingot/014_crystalized_diamond_nugget"
+  }
+}

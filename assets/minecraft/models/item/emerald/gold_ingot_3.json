@@ -1,0 +1,7 @@
+{
+  "comment":"NONE",
+  "parent": "item/handheld_custom",
+  "textures": {
+    "layer0": "item/drops/gold_ingot_3"
+  }
+}

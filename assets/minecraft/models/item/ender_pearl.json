@@ -1,0 +1,27 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ender_pearl"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/enderpearl/purple_pearl"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/enderpearl/purple_pearl_2"},
+
+		{"predicate": {"custom_model_data": 3}, "model": "item/enderpearl/pink_pearl"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/enderpearl/pink_pearl_2"},
+
+		{"predicate": {"custom_model_data": 5}, "model": "item/enderpearl/green_pearl"},
+
+        { "predicate": { "custom_model_data": 35}, "model": "item/enderpearl/blue_pearl" },
+		{ "predicate": { "custom_model_data": 36}, "model": "item/enderpearl/blue_pearl_2" }
+
+
+
+
+
+
+
+
+
+		]
+}

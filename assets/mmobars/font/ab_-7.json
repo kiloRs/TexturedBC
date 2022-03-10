@@ -1,0 +1,415 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": ["\uF831"]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": ["\uF811"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_1.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE000","\uE001","\uE002","\uE003","\uE004","\uE005","\uE006","\uE007","\uE008","\uE009","\uE00A","\uE00B","\uE00C","\uE00D","\uE00E","\uE00F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_2.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE010","\uE011","\uE012","\uE013","\uE014","\uE015","\uE016","\uE017","\uE018","\uE019","\uE01A","\uE01B","\uE01C","\uE01D","\uE01E","\uE01F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_4.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE020","\uE021","\uE022","\uE023","\uE024","\uE025","\uE026","\uE027","\uE028","\uE029","\uE02A","\uE02B","\uE02C","\uE02D","\uE02E","\uE02F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_8.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE030","\uE031","\uE032","\uE033","\uE034","\uE035","\uE036","\uE037","\uE038","\uE039","\uE03A","\uE03B","\uE03C","\uE03D","\uE03E","\uE03F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_16.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE040","\uE041","\uE042","\uE043","\uE044","\uE045","\uE046","\uE047","\uE048","\uE049","\uE04A","\uE04B","\uE04C","\uE04D","\uE04E","\uE04F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_32.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE050","\uE051","\uE052","\uE053","\uE054","\uE055","\uE056","\uE057","\uE058","\uE059","\uE05A","\uE05B","\uE05C","\uE05D","\uE05E","\uE05F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_64.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE060","\uE061","\uE062","\uE063","\uE064","\uE065","\uE066","\uE067","\uE068","\uE069","\uE06A","\uE06B","\uE06C","\uE06D","\uE06E","\uE06F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_128.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE070","\uE071","\uE072","\uE073","\uE074","\uE075","\uE076","\uE077","\uE078","\uE079","\uE07A","\uE07B","\uE07C","\uE07D","\uE07E","\uE07F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/solid/bar_256.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE080","\uE081","\uE082","\uE083","\uE084","\uE085","\uE086","\uE087","\uE088","\uE089","\uE08A","\uE08B","\uE08C","\uE08D","\uE08E","\uE08F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_1.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE100","\uE101","\uE102","\uE103","\uE104","\uE105","\uE106","\uE107","\uE108","\uE109","\uE10A","\uE10B","\uE10C","\uE10D","\uE10E","\uE10F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_2.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE110","\uE111","\uE112","\uE113","\uE114","\uE115","\uE116","\uE117","\uE118","\uE119","\uE11A","\uE11B","\uE11C","\uE11D","\uE11E","\uE11F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_4.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE120","\uE121","\uE122","\uE123","\uE124","\uE125","\uE126","\uE127","\uE128","\uE129","\uE12A","\uE12B","\uE12C","\uE12D","\uE12E","\uE12F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_8.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE130","\uE131","\uE132","\uE133","\uE134","\uE135","\uE136","\uE137","\uE138","\uE139","\uE13A","\uE13B","\uE13C","\uE13D","\uE13E","\uE13F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_16.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE140","\uE141","\uE142","\uE143","\uE144","\uE145","\uE146","\uE147","\uE148","\uE149","\uE14A","\uE14B","\uE14C","\uE14D","\uE14E","\uE14F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_32.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE150","\uE151","\uE152","\uE153","\uE154","\uE155","\uE156","\uE157","\uE158","\uE159","\uE15A","\uE15B","\uE15C","\uE15D","\uE15E","\uE15F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_64.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE160","\uE161","\uE162","\uE163","\uE164","\uE165","\uE166","\uE167","\uE168","\uE169","\uE16A","\uE16B","\uE16C","\uE16D","\uE16E","\uE16F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_128.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE170","\uE171","\uE172","\uE173","\uE174","\uE175","\uE176","\uE177","\uE178","\uE179","\uE17A","\uE17B","\uE17C","\uE17D","\uE17E","\uE17F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/linear/bar_256.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE180","\uE181","\uE182","\uE183","\uE184","\uE185","\uE186","\uE187","\uE188","\uE189","\uE18A","\uE18B","\uE18C","\uE18D","\uE18E","\uE18F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/9x9_icons.png",
+            "ascent": -7,
+            "chars": [
+                "\uF000\uF001\uF002\uF003\uF004\uF005\uF006\uF007\uF008\uF009\uF00A\uF00B\uF00C\uF00D\uF00E\uF00F\uF010\uF011",
+                "\uF012\uF013\uF014\uF015\uF016\uF017\uF018\uF019\uF01A\uF01B\uF01C\uF01D\uF01E\uF01F\uF020\uF021\uF022\uF023",
+                "\uF024\uF025\uF026\uF027\uF028\uF029\uF02A\uF02B\uF02C\uF02D\uF02E\uF02F\uF030\uF031\uF032\uF033\uF034\uF035",
+                "\uF036\uF037\uF038\uF039\uF03A\uF03B\uF03C\uF03D\uF03E\uF03F\uF040\uF041\uF042\uF043\uF044\uF045\uF046\uF047",
+                "\uF048\uF049\uF04A\uF04B\uF04C\uF04D\uF04E\uF04F\uF050\uF051\uF052\uF053\uF054\uF055\uF056\uF057\uF058\uF059",
+                "\uF05A\uF05B\uF05C\uF05D\uF05E\uF05F\uF060\uF061\uF062\uF063\uF064\uF065\uF066\uF067\uF068\uF069\uF06A\uF06B",
+                "\uF06C\uF06D\uF06E\uF06F\uF070\uF071\uF072\uF073\uF074\uF075\uF076\uF077\uF078\uF079\uF07A\uF07B\uF07C\uF07D",
+                "\uF07E\uF07F\uF080\uF081\uF082\uF083\uF084\uF085\uF086\uF087\uF088\uF089\uF08A\uF08B\uF08C\uF08D\uF08E\uF08F",
+                "\uF090\uF091\uF092\uF093\uF094\uF095\uF096\uF097\uF098\uF099\uF09A\uF09B\uF09C\uF09D\uF09E\uF09F\uF0A0\uF0A1",
+                "\uF0A2\uF0A3\uF0A4\uF0A5\uF0A6\uF0A7\uF0A8\uF0A9\uF0AA\uF0AB\uF0AC\uF0AD\uF0AE\uF0AF\uF0B0\uF0B1\uF0B2\uF0B3",
+                "\uF0B4\uF0B5\uF0B6\uF0B7\uF0B8\uF0B9\uF0BA\uF0BB\uF0BC\uF0BD\uF0BE\uF0BF\uF0C0\uF0C1\uF0C2\uF0C3\uF0C4\uF0C5",
+                "\uF0C6\uF0C7\uF0C8\uF0C9\uF0CA\uF0CB\uF0CC\uF0CD\uF0CE\uF0CF\uF0D0\uF0D1\uF0D2\uF0D3\uF0D4\uF0D5\uF0D6\uF0D7",
+                "\uF0D8\uF0D9\uF0DA\uF0DB\uF0DC\uF0DD\uF0DE\uF0DF\uF0E0\uF0E1\uF0E2\uF0E3\uF0E4\uF0E5\uF0E6\uF0E7\uF0E8\uF0E9",
+                "\uF0EA\uF0EB\uF0EC\uF0ED\uF0EE\uF0EF\uF0F0\uF0F1\uF0F2\uF0F3\uF0F4\uF0F5\uF0F6\uF0F7\uF0F8\uF0F9\uF0FA\uF0FB",
+                "\uF0FC\uF0FD\uF0FE\uF0FF\uF100\uF101\uF102\uF103\uF104\uF105\uF106\uF107\uF108\uF109\uF10A\uF10B\uF10C\uF10D",
+                "\uF10E\uF10F\uF110\uF111\uF112\uF113\uF114\uF115\uF116\uF117\uF118\uF119\uF11A\uF11B\uF11C\uF11D\uF11E\uF11F",
+                "\uF120\uF121\uF122\uF123\uF124\uF125\uF126\uF127\uF128\uF129\uF12A\uF12B\uF12C\uF12D\uF12E\uF12F\uF130\uF131",
+                "\uF132\uF133\uF134\uF135\uF136\uF137\uF138\uF139\uF13A\uF13B\uF13C\uF13D\uF13E\uF13F\uF140\uF141\uF142\uF143"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_1.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE200","\uE201","\uE202","\uE203","\uE204","\uE205","\uE206","\uE207","\uE208","\uE209","\uE20A","\uE20B","\uE20C","\uE20D","\uE20E","\uE20F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_2.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE210","\uE211","\uE212","\uE213","\uE214","\uE215","\uE216","\uE217","\uE218","\uE219","\uE21A","\uE21B","\uE21C","\uE21D","\uE21E","\uE21F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_4.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE220","\uE221","\uE222","\uE223","\uE224","\uE225","\uE226","\uE227","\uE228","\uE229","\uE22A","\uE22B","\uE22C","\uE22D","\uE22E","\uE22F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_8.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE230","\uE231","\uE232","\uE233","\uE234","\uE235","\uE236","\uE237","\uE238","\uE239","\uE23A","\uE23B","\uE23C","\uE23D","\uE23E","\uE23F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_16.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE240","\uE241","\uE242","\uE243","\uE244","\uE245","\uE246","\uE247","\uE248","\uE249","\uE24A","\uE24B","\uE24C","\uE24D","\uE24E","\uE24F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_32.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE250","\uE251","\uE252","\uE253","\uE254","\uE255","\uE256","\uE257","\uE258","\uE259","\uE25A","\uE25B","\uE25C","\uE25D","\uE25E","\uE25F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_64.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE260","\uE261","\uE262","\uE263","\uE264","\uE265","\uE266","\uE267","\uE268","\uE269","\uE26A","\uE26B","\uE26C","\uE26D","\uE26E","\uE26F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_128.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE270","\uE271","\uE272","\uE273","\uE274","\uE275","\uE276","\uE277","\uE278","\uE279","\uE27A","\uE27B","\uE27C","\uE27D","\uE27E","\uE27F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/flipped/bar_256.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE280","\uE281","\uE282","\uE283","\uE284","\uE285","\uE286","\uE287","\uE288","\uE289","\uE28A","\uE28B","\uE28C","\uE28D","\uE28E","\uE28F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_1.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE300","\uE301","\uE302","\uE303","\uE304","\uE305","\uE306","\uE307","\uE308","\uE309","\uE30A","\uE30B","\uE30C","\uE30D","\uE30E","\uE30F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_2.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE310","\uE311","\uE312","\uE313","\uE314","\uE315","\uE316","\uE317","\uE318","\uE319","\uE31A","\uE31B","\uE31C","\uE31D","\uE31E","\uE31F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_4.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE320","\uE321","\uE322","\uE323","\uE324","\uE325","\uE326","\uE327","\uE328","\uE329","\uE32A","\uE32B","\uE32C","\uE32D","\uE32E","\uE32F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_8.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE330","\uE331","\uE332","\uE333","\uE334","\uE335","\uE336","\uE337","\uE338","\uE339","\uE33A","\uE33B","\uE33C","\uE33D","\uE33E","\uE33F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_16.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE340","\uE341","\uE342","\uE343","\uE344","\uE345","\uE346","\uE347","\uE348","\uE349","\uE34A","\uE34B","\uE34C","\uE34D","\uE34E","\uE34F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_32.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE350","\uE351","\uE352","\uE353","\uE354","\uE355","\uE356","\uE357","\uE358","\uE359","\uE35A","\uE35B","\uE35C","\uE35D","\uE35E","\uE35F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_64.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE360","\uE361","\uE362","\uE363","\uE364","\uE365","\uE366","\uE367","\uE368","\uE369","\uE36A","\uE36B","\uE36C","\uE36D","\uE36E","\uE36F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_128.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE370","\uE371","\uE372","\uE373","\uE374","\uE375","\uE376","\uE377","\uE378","\uE379","\uE37A","\uE37B","\uE37C","\uE37D","\uE37E","\uE37F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/mirrored/bar_256.png",
+            "height": 16,
+            "ascent": -7,
+            "chars": ["\uE380","\uE381","\uE382","\uE383","\uE384","\uE385","\uE386","\uE387","\uE388","\uE389","\uE38A","\uE38B","\uE38C","\uE38D","\uE38E","\uE38F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/18x18_icons.png",
+            "ascent": -7,
+            "chars": [
+                "\uD000\uD001\uD002\uD003\uD004\uD005\uD006\uD007\uD008\uD009\uD00A\uD00B\uD00C\uD00D\uD00E\uD00F\uD010\uD011",
+                "\uD012\uD013\uD014\uD015\uD016\uD017\uD018\uD019\uD01A\uD01B\uD01C\uD01D\uD01E\uD01F\uD020\uD021\uD022\uD023",
+                "\uD024\uD025\uD026\uD027\uD028\uD029\uD02A\uD02B\uD02C\uD02D\uD02E\uD02F\uD030\uD031\uD032\uD033\uD034\uD035",
+                "\uD036\uD037\uD038\uD039\uD03A\uD03B\uD03C\uD03D\uD03E\uD03F\uD040\uD041\uD042\uD043\uD044\uD045\uD046\uD047",
+                "\uD048\uD049\uD04A\uD04B\uD04C\uD04D\uD04E\uD04F\uD050\uD051\uD052\uD053\uD054\uD055\uD056\uD057\uD058\uD059",
+                "\uD05A\uD05B\uD05C\uD05D\uD05E\uD05F\uD060\uD061\uD062\uD063\uD064\uD065\uD066\uD067\uD068\uD069\uD06A\uD06B",
+                "\uD06C\uD06D\uD06E\uD06F\uD070\uD071\uD072\uD073\uD074\uD075\uD076\uD077\uD078\uD079\uD07A\uD07B\uD07C\uD07D",
+                "\uD07E\uD07F\uD080\uD081\uD082\uD083\uD084\uD085\uD086\uD087\uD088\uD089\uD08A\uD08B\uD08C\uD08D\uD08E\uD08F",
+                "\uD090\uD091\uD092\uD093\uD094\uD095\uD096\uD097\uD098\uD099\uD09A\uD09B\uD09C\uD09D\uD09E\uD09F\uD0A0\uD0A1",
+                "\uD0A2\uD0A3\uD0A4\uD0A5\uD0A6\uD0A7\uD0A8\uD0A9\uD0AA\uD0AB\uD0AC\uD0AD\uD0AE\uD0AF\uD0B0\uD0B1\uD0B2\uD0B3",
+                "\uD0B4\uD0B5\uD0B6\uD0B7\uD0B8\uD0B9\uD0BA\uD0BB\uD0BC\uD0BD\uD0BE\uD0BF\uD0C0\uD0C1\uD0C2\uD0C3\uD0C4\uD0C5",
+                "\uD0C6\uD0C7\uD0C8\uD0C9\uD0CA\uD0CB\uD0CC\uD0CD\uD0CE\uD0CF\uD0D0\uD0D1\uD0D2\uD0D3\uD0D4\uD0D5\uD0D6\uD0D7",
+                "\uD0D8\uD0D9\uD0DA\uD0DB\uD0DC\uD0DD\uD0DE\uD0DF\uD0E0\uD0E1\uD0E2\uD0E3\uD0E4\uD0E5\uD0E6\uD0E7\uD0E8\uD0E9",
+                "\uD0EA\uD0EB\uD0EC\uD0ED\uD0EE\uD0EF\uD0F0\uD0F1\uD0F2\uD0F3\uD0F4\uD0F5\uD0F6\uD0F7\uD0F8\uD0F9\uD0FA\uD0FB",
+                "\uD0FC\uD0FD\uD0FE\uD0FF\uD100\uD101\uD102\uD103\uD104\uD105\uD106\uD107\uD108\uD109\uD10A\uD10B\uD10C\uD10D",
+                "\uD10E\uD10F\uD110\uD111\uD112\uD113\uD114\uD115\uD116\uD117\uD118\uD119\uD11A\uD11B\uD11C\uD11D\uD11E\uD11F",
+                "\uD120\uD121\uD122\uD123\uD124\uD125\uD126\uD127\uD128\uD129\uD12A\uD12B\uD12C\uD12D\uD12E\uD12F\uD130\uD131",
+                "\uD132\uD133\uD134\uD135\uD136\uD137\uD138\uD139\uD13A\uD13B\uD13C\uD13D\uD13E\uD13F\uD140\uD141\uD142\uD143"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/text/nonlatin_european.png",
+            "ascent": -7,
+            "chars": [
+                "\u00a1\u2030\u00ad\u00b7\u20b4\u2260\u00bf\u00d7\u00d8\u00de\u04bb\u00f0\u00f8\u00fe\u0391\u0392",
+                "\u0393\u0394\u0395\u0396\u0397\u0398\u0399\u039a\u039b\u039c\u039d\u039e\u039f\u03a0\u03a1\u03a3",
+                "\u03a4\u03a5\u03a6\u03a7\u03a8\u03a9\u03b1\u03b2\u03b3\u03b4\u03b5\u03b6\u03b7\u03b8\u03b9\u03ba",
+                "\u03bb\u03bc\u03bd\u03be\u03bf\u03c0\u03c1\u03c2\u03c3\u03c4\u03c5\u03c6\u03c7\u03c8\u03c9\u0402",
+                "\u0405\u0406\u0408\u0409\u040a\u040b\u0410\u0411\u0412\u0413\u0414\u0415\u0416\u0417\u0418\u041a",
+                "\u041b\u041c\u041d\u041e\u041f\u0420\u0421\u0422\u0423\u0424\u0425\u0426\u0427\u0428\u0429\u042a",
+                "\u042b\u042c\u042d\u042e\u042f\u0430\u0431\u0432\u0433\u0434\u0435\u0436\u0437\u0438\u043a\u043b",
+                "\u043c\u043d\u043e\u043f\u0440\u0441\u0442\u0443\u0444\u0445\u0446\u0447\u0448\u0449\u044a\u044b",
+                "\u044c\u044d\u044e\u044f\u0454\u0455\u0456\u0458\u0459\u045a\u2013\u2014\u2018\u2019\u201c\u201d",
+                "\u201e\u2026\u204a\u2190\u2191\u2192\u2193\u21c4\uff0b\u018f\u0259\u025b\u026a\u04ae\u04af\u04e8",
+                "\u04e9\u02bb\u02cc\u037e\u0138\u1e9e\u00df\u20bd\u20ac\u0462\u0463\u0474\u0475\u04c0\u0472\u0473",
+                "\u2070\u00b9\u00b3\u2074\u2075\u2076\u2077\u2078\u2079\u207a\u207b\u207c\u207d\u207e\u2071\u2122",
+                "\u0294\u0295\u29c8\u2694\u2620\u049a\u049b\u0492\u0493\u04b0\u04b1\u04d8\u04d9\u0496\u0497\u04a2",
+                "\u04a3\u04ba\u05d0\u05d1\u05d2\u05d3\u05d4\u05d5\u05d6\u05d7\u05d8\u05d9\u05db\u05dc\u05de\u05dd",
+                "\u05e0\u05df\u05e1\u05e2\u05e4\u05e3\u05e6\u05e5\u05e7\u05e8\u00a2\u00a4\u00a5\u00a9\u00ae\u00b5",
+                "\u00b6\u00bc\u00bd\u00be\u0387\u2010\u201a\u2020\u2021\u2022\u2031\u2032\u2033\u2034\u2035\u2036",
+                "\u2037\u2039\u203a\u203b\u203c\u203d\u2042\u2048\u2049\u204b\u204e\u204f\u2051\u2052\u2057\u2117",
+                "\u2212\u2213\u221e\u2600\u2601\u2608\u0404\u2632\u2635\u263d\u2640\u2642\u26a5\u2660\u2663\u2665",
+                "\u2666\u2669\u266a\u266b\u266c\u266d\u266e\u266f\u2680\u2681\u2682\u2683\u2684\u2685\u02ac\u26a1",
+                "\u26cf\u2714\u2744\u274c\u2764\u2b50\u2e18\u2e2e\u2e35\u2e38\u2e41\u2e4b\u295d\u1614\u0190\u07c8",
+                "\u03db\u3125\u2c6f\u15fa\u0186\u15e1\u018e\u2132\u2141\ua7b0\ua780\u0500\ua779\u1d1a\u27d8\u2229",
+                "\u0245\u2144\u0250\u0254\u01dd\u025f\u1d77\u0265\u1d09\u027e\u029e\ua781\u026f\u0279\u0287\u028c",
+                "\u028d\u028e\u0531\u0532\u0533\u0534\u0536\u0537\u0539\u053a\u053b\u053c\u053d\u053e\u053f\u0540",
+                "\u0541\u0542\u0543\u0544\u0545\u0546\u0547\u0548\u0549\u054b\u054c\u054d\u054e\u054f\u0550\u0551",
+                "\u0552\u0553\u0554\u0555\u0556\u0559\u0561\u0562\u0563\u0564\u0565\u0566\u0567\u0568\u0569\u056a",
+                "\u056b\u056c\u056d\u056e\u056f\u0570\u0571\u0572\u0573\u0574\u0575\u0576\u0577\u0578\u0579\u057a",
+                "\u057b\u057c\u057d\u057e\u057f\u0580\u0581\u0582\u0583\u0584\u0585\u0586\u0587\u05e9\u05ea\u0538",
+                "\u055a\u055b\u055c\u055d\u055e\u055f\u0560\u0588\u058f\u00af\u017f\u01b7\u0292\u01f7\u01bf\u021c",
+                "\u021d\u0224\u0225\u02d9\ua75a\ua75b\u2011\u214b\u23cf\u23e9\u23ea\u23ed\u23ee\u23ef\u23f4\u23f5",
+                "\u23f6\u23f7\u23f8\u23f9\u23fa\u23fb\u23fc\u23fd\u2b58\u25b2\u25b6\u25bc\u25c0\u25cf\u25e6\u25d8",
+                "\u2693\u26e8\u0132\u0133\u01c9\ua728\ua729\ua739\ua73b\ufb00\ufb01\ufb02\ufb03\ufb05\ufffd\u0535",
+                "\u054a\u16a0\u16a2\u16a3\u16a4\u16a5\u16a6\u16a7\u16a8\u16a9\u16aa\u16ab\u16ac\u16ad\u16ae\u16af",
+                "\u16b0\u16b1\u16b2\u16b3\u16b4\u16b6\u16b7\u16b8\u16b9\u16ba\u16bb\u16bc\u16bd\u16be\u16bf\u16c0",
+                "\u16c1\u16c2\u16c3\u16c4\u16c5\u16c6\u16c7\u16c8\u16c9\u16ca\u16cb\u16cc\u16cd\u16ce\u16cf\u16d0",
+                "\u16d1\u16d2\u16d3\u16d4\u16d5\u16d6\u16d7\u16d8\u16d9\u16da\u16db\u16dc\u16dd\u16de\u16df\u16e0",
+                "\u16e1\u16e2\u16e3\u16e4\u16e5\u16e6\u16e7\u16e8\u16e9\u16ea\u16eb\u16ec\u16ed\u16ee\u16ef\u16f0",
+                "\u16f1\u16f2\u16f3\u16f4\u16f5\u16f6\u16f7\u16f8\u263a\u263b\u00a6\u2639\u05da\u05f3\u05f4\u05f0",
+                "\u05f1\u05f2\u05be\u05c3\u05c6\u00b4\u00a8\u1d00\u0299\u1d04\u1d05\u1d07\ua730\u0262\u029c\u1d0a",
+                "\u1d0b\u029f\u1d0d\u0274\u1d0f\u1d18\ua7af\u0280\ua731\u1d1b\u1d1c\u1d20\u1d21\u028f\u1d22\u00a7",
+                "\u0271\u0273\u0272\u0288\u0256\u0261\u02a1\u0255\u0291\u0278\u029d\u02a2\u027b\u0281\u0266\u028b",
+                "\u0270\u026c\u026e\u0298\u01c0\u01c3\u01c2\u01c1\u0253\u0257\u1d91\u0284\u0260\u029b\u0267\u026b",
+                "\u0268\u0289\u028a\u0258\u0275\u0264\u025c\u025e\u0251\u0252\u025a\u025d\u0181\u0189\u0191\u01a9",
+                "\u01b2\u10a0\u10a1\u10a2\u10a3\u10a4\u10a5\u10a6\u10a7\u10a8\u10a9\u10aa\u10ab\u10ac\u10ad\u10ae",
+                "\u10af\u10b0\u10b1\u10b2\u10b3\u10b4\u10b5\u10b6\u10b7\u10b8\u10b9\u10ba\u10bb\u10bc\u10bd\u10be",
+                "\u10bf\u10c0\u10c1\u10c2\u10c3\u10c4\u10c5\u10c7\u10cd\u10d0\u10d1\u10d2\u10d3\u10d4\u10d5\u10d6",
+                "\u10d7\u10d8\u10d9\u10da\u10db\u10dc\u10dd\u10de\u10df\u10e0\u10e1\u10e2\u10e3\u10e4\u10e5\u10e6",
+                "\u10e7\u10e8\u10e9\u10ea\u10eb\u10ec\u10ed\u10ee\u10ef\u10f0\u10f1\u10f2\u10f3\u10f4\u10f5\u10f6",
+                "\u10f7\u10f8\u10f9\u10fa\u10fb\u10fc\u10fd\u10fe\u10ff\ufb4a\ufb2b\ufb4e\ufb44\ufb3b\ufb1f\ufb1d",
+                "\ufb4b\ufb35\ufb4c\ufb31\ua727\ua726\u027a\u2c71\u02a0\u0297\u0296\u026d\u0277\u027f\u0285\u0286",
+                "\u0293\u029a\u20aa\u20be\u058a\u2d00\u2d01\u2d02\u2d03\u2d04\u2d05\u2d06\u2d21\u2d07\u2d08\u2d09",
+                "\u2d0a\u2d0b\u2d0c\u2d22\u2d0d\u2d0e\u2d0f\u2d10\u2d11\u2d12\u2d23\u2d13\u2d14\u2d15\u2d16\u2d17",
+                "\u2d18\u2d19\u2d1a\u2d1b\u2d1c\u2d1d\u2d1e\u2d24\u2d1f\u2d20\u2d25\u215b\u215c\u215d\u215e\u2153",
+                "\u2154\u2709\u2602\u2614\u2604\u26c4\u2603\u231b\u231a\u2690\u270e\u2763\u2664\u2667\u2661\u2662",
+                "\u26c8\u2630\u2631\u2633\u2634\u2636\u2637\u2194\u21d2\u21cf\u21d4\u21f5\u2200\u2203\u2204\u2209",
+                "\u220b\u220c\u2282\u2283\u2284\u2285\u2227\u2228\u22bb\u22bc\u22bd\u2225\u2262\u22c6\u2211\u22a4",
+                "\u22a5\u22a2\u22a8\u2254\u2201\u2234\u2235\u221b\u221c\u2202\u22c3\u2286\u2287\u25a1\u25b3\u25b7",
+                "\u25bd\u25c1\u25c6\u25c7\u25cb\u25ce\u2606\u2605\u2718\u2080\u2081\u2082\u2083\u2084\u2085\u2086",
+                "\u2087\u2088\u2089\u208a\u208b\u208c\u208d\u208e\u222b\u222e\u221d\u2300\u2302\u2318\u3012\u027c",
+                "\u0184\u0185\u1e9f\u023d\u019a\u019b\u0220\u019e\u019f\u01a7\u01a8\u01aa\u01b8\u01b9\u01bb\u01bc",
+                "\u01bd\u01be\u0221\u0234\u0235\u0236\u023a\u2c65\u023b\u023c\u0246\u0247\u023e\u2c66\u0241\u0242",
+                "\u0243\u0244\u0248\u0249\u024a\u024b\u024c\u024d\u024e\u024f\u1e9c\u1e9d\u1efc\u1efd\u1efe\u1eff",
+                "\ua7a8\ua7a9\ud800\udf30\ud800\udf31\ud800\udf32\ud800\udf33\ud800\udf34\ud800\udf35\ud800\udf36\ud800\udf37\ud800\udf38\ud800\udf39\ud800\udf3a\ud800\udf3b\ud800\udf3c\ud800\udf3d",
+                "\ud800\udf3e\ud800\udf3f\ud800\udf40\ud800\udf41\ud800\udf42\ud800\udf43\ud800\udf44\ud800\udf45\ud800\udf46\ud800\udf47\ud800\udf48\ud800\udf49\ud800\udf4a\ud83c\udf27\ud83d\udd25\ud83c\udf0a",
+                "\u2150\u2151\u2155\u2156\u2157\u2159\u215a\u215f\u2189\ud83d\udde1\ud83c\udff9\ud83e\ude93\ud83d\udd31\ud83c\udfa3\ud83e\uddea\u2697",
+                "\u2bea\u2beb\u2c6d\ud83d\udee1\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmobars:font/text/ascii.png",
+            "ascent": -7,
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0020\u0021\u0022\u0023\u0024\u0025\u0026\u0027\u0028\u0029\u002a\u002b\u002c\u002d\u002e\u002f",
+                "\u0030\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039\u003a\u003b\u003c\u003d\u003e\u003f",
+                "\u0040\u0041\u0042\u0043\u0044\u0045\u0046\u0047\u0048\u0049\u004a\u004b\u004c\u004d\u004e\u004f",
+                "\u0050\u0051\u0052\u0053\u0054\u0055\u0056\u0057\u0058\u0059\u005a\u005b\u005c\u005d\u005e\u005f",
+                "\u0060\u0061\u0062\u0063\u0064\u0065\u0066\u0067\u0068\u0069\u006a\u006b\u006c\u006d\u006e\u006f",
+                "\u0070\u0071\u0072\u0073\u0074\u0075\u0076\u0077\u0078\u0079\u007a\u007b\u007c\u007d\u007e\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00a3\u0000\u0000\u0192",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u00aa\u00ba\u0000\u0000\u00ac\u0000\u0000\u0000\u00ab\u00bb",
+                "\u2591\u2592\u2593\u2502\u2524\u2561\u2562\u2556\u2555\u2563\u2551\u2557\u255d\u255c\u255b\u2510",
+                "\u2514\u2534\u252c\u251c\u2500\u253c\u255e\u255f\u255a\u2554\u2569\u2566\u2560\u2550\u256c\u2567",
+                "\u2568\u2564\u2565\u2559\u2558\u2552\u2553\u256b\u256a\u2518\u250c\u2588\u2584\u258c\u2590\u2580",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u2205\u2208\u0000",
+                "\u2261\u00b1\u2265\u2264\u2320\u2321\u00f7\u2248\u00b0\u2219\u00b7\u221a\u207f\u00b2\u25a0\u0000"
+            ]
+        }
+    ]
+}

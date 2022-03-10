@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/blaze_rod"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/blaze_rod/steel_rod" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/blaze_rod/steel_rod_light" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/blaze_rod/steel_rod_lightest" },	
+		{ "predicate": { "custom_model_data": 4}, "model": "item/blaze_rod/rod_lightest_red" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/blaze_rod/rod_light_red" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/blaze_rod/red_rod" },	
+		{ "predicate": { "custom_model_data": 7}, "model": "item/blaze_rod/steel_rod" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/blaze_rod/yellow_rod" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/blaze_rod/red_rod" },	
+		{ "predicate": { "custom_model_data": 10}, "model": "item/blaze_rod/steel_rod" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/blaze_rod/yellow_rod" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/blaze_rod/red_rod" },	
+		{ "predicate": { "custom_model_data": 13}, "model": "item/blaze_rod/steel_rod" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/blaze_rod/yellow_rod" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/blaze_rod/red_rod" }
+
+		]
+}

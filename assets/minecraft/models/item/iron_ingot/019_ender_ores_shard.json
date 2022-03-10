@@ -1,0 +1,6 @@
+{
+  "parent": "item/holding",
+  "textures": {
+    "layer0": "item/iron_ingot/019_ender_ores_shard"
+  }
+}

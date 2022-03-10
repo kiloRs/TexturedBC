@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_swords/copper_sword_2"
+  }
+}

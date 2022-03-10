@@ -1,0 +1,54 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/apple"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/apple/banana" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/apple/chili_pepper" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/apple/garlic" },
+
+		{ "predicate": { "custom_model_data": 4}, "model": "item/apple/lettuce" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/apple/pear" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/apple/rice" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/apple/steel_apple" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/apple/tomato" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/apple/blue_essence" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/apple/light_blue_chunk_3" },
+
+		{ "predicate": { "custom_model_data": 11}, "model": "item/apple/blue_frag" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/apple/blue_frag_2" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/apple/blue_frag_3" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/apple/blue_frag_4" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/apple/blue_frag_5" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/apple/blue_frag_6" },
+
+		{"predicate": {"custom_model_data": 17}, "model": "item/apple/cursed_ghast_tear"},
+        {"predicate": {"custom_model_data": 18}, "model": "item/apple/ghast_tear"},
+        {"predicate": {"custom_model_data": 19}, "model": "item/apple/ghast_tear_2"},
+
+		{"predicate": {"custom_model_data": 20}, "model": "item/apple/green_tear"},
+		{"predicate": {"custom_model_data": 21}, "model": "item/apple/green_tear_2"},
+		{"predicate": {"custom_model_data": 22}, "model": "item/apple/green_tear_3"},
+		{"predicate": {"custom_model_data": 23}, "model": "item/apple/green_tear_4"},
+		{"predicate": {"custom_model_data": 24}, "model": "item/apple/green_tear_5"},
+
+		{"predicate": {"custom_model_data": 25}, "model": "item/apple/green_nuggets"},
+		{"predicate": {"custom_model_data": 26}, "model": "item/apple/green_nuggets_2"},
+		{"predicate": {"custom_model_data": 27}, "model": "item/apple/green_nuggets_3"},
+		{"predicate": {"custom_model_data": 28}, "model": "item/apple/green_nuggets_4"},
+
+		{"predicate": {"custom_model_data": 29}, "model": "item/apple/n_g_tear"},
+		{"predicate": {"custom_model_data": 30}, "model": "item/apple/n_lg_tear"},
+		{"predicate": {"custom_model_data": 31}, "model": "item/apple/n_lg_tear_2"},
+		{"predicate": {"custom_model_data": 32}, "model": "item/apple/n_lg_tear_3"},
+		{"predicate": {"custom_model_data": 33}, "model": "item/apple/n_lg_tear_4"},
+
+		{"predicate": {"custom_model_data": 34}, "model": "item/apple/light_green_chunks"},
+		{"predicate": {"custom_model_data": 35}, "model": "item/apple/light_green_chunks_2"},
+		{"predicate": {"custom_model_data": 36}, "model": "item/apple/light_green_chunks_3"}
+
+		
+
+		]
+}

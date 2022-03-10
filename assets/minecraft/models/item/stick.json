@@ -1,0 +1,38 @@
+{
+  "parent":"item/source_models/1xhandheld",
+  "textures":{
+     "layer0":"item/stick"
+  },
+    "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "item/stick/steel_spear" },
+        {"predicate": {"custom_model_data": 2}, "model": "item/stick/steel_spear_2"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/stick/steel_spear_3"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/stick/copper_spear"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/stick/copper_spear_2"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/stick/copper_spear_3"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/stick/bronze_spear"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/stick/bronze_spear_2"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/stick/bronze_spear_3"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/stick/aluminum_spear"},
+        {"predicate": {"custom_model_data": 11}, "model": "item/stick/aluminum_spear_2"},
+        {"predicate": {"custom_model_data": 12}, "model": "item/stick/aluminum_spear_3"},
+        {"predicate": {"custom_model_data": 13}, "model": "item/stick/amethyst_spear"},
+        {"predicate": {"custom_model_data": 14}, "model": "item/stick/amethyst_spear_2"},
+        {"predicate": {"custom_model_data": 15}, "model": "item/stick/amethyst_spear_3"},
+        {"predicate": {"custom_model_data": 16}, "model": "item/stick/ruby_spear"},
+        {"predicate": {"custom_model_data": 17}, "model": "item/stick/ruby_spear_2"},
+        {"predicate": {"custom_model_data": 18}, "model": "item/stick/ruby_spear_3"},
+        {"predicate": {"custom_model_data": 19}, "model": "item/stick/spinel_spear"},
+        {"predicate": {"custom_model_data": 20}, "model": "item/stick/spinel_spear_2"},
+        {"predicate": {"custom_model_data": 21}, "model": "item/stick/spinel_spear_3"},
+        {"predicate": {"custom_model_data": 22}, "model": "item/stick/kanari_spear"},
+        {"predicate": {"custom_model_data": 23}, "model": "item/stick/kanari_spear_2"},
+        {"predicate": {"custom_model_data": 24}, "model": "item/stick/kanari_spear_3"},
+        {"predicate": {"custom_model_data": 25}, "model": "item/stick/spear"},
+        {"predicate": {"custom_model_data": 26}, "model": "item/stick/staff"},
+		{"predicate": {"custom_model_data": 101}, "model": "item/stick/wooden_celestialspear"},
+		{"predicate": {"custom_model_data": 102}, "model": "item/stick/silver_celestialspear"},
+		{"predicate": {"custom_model_data": 103}, "model": "item/stick/golden_celestialspear"},
+    {"predicate": {"custom_model_data": 103}, "model": "item/stick/blue_celestialspear"}
+     ]
+}

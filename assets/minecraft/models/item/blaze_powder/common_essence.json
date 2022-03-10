@@ -1,0 +1,6 @@
+{
+	"parent": "item/holding",
+	"textures": {
+		"layer0": "item/blaze_powder/common_essence"
+	}
+}

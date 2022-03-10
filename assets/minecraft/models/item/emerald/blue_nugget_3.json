@@ -1,0 +1,10 @@
+{
+<<<<<<< HEAD
+=======
+  "comment":"NONE",
+>>>>>>> 9bd9cdbb777ee26369f51c1f3250cd6ac5485bd5
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/drops/blue_nugget_3"
+  }
+}

@@ -1,0 +1,57 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_axe"
+	},
+	"overrides": [
+	{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/diamond_axe/ruby_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/diamond_axe/spinel_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/diamond_axe/turquoise_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/diamond_axe/aqua_aura_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/diamond_axe/amethyst_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/diamond_axe/bronze_axe"
+    },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/diamond_axe/diamond_waraxe" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/diamond_axe/diamond_battleaxe" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/diamond_axe/yellow_battleaxe" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/diamond_axe/yellowgreen_battleaxe" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/diamond_axe/cobalt_axe" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/diamond_axe/copper_axe" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/diamond_axe/platinum_axe" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/diamond_axe/obsidian_axe" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/diamond_axe/steel_axe" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/diamond_axe/aluminum_axe" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/diamond_axe/aether_axe" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/diamond_axe/darksteel_axe" },
+		{ "predicate": { "custom_model_data": 19}, "model": "item/diamond_axe/war_axe" }
+	]
+}

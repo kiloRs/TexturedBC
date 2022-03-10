@@ -1,0 +1,33 @@
+{
+  "parent":"item/handheld",
+  "textures":{
+     "layer0":"item/iron_pickaxe"
+  },
+    "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "item/iron_pickaxe/steel_pickaxe" },
+        {"predicate": {"custom_model_data": 2}, "model": "item/iron_pickaxe/steel_pickaxe_2"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/iron_pickaxe/steel_pickaxe_3"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/iron_pickaxe/copper_pickaxe"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/iron_pickaxe/copper_pickaxe_2"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/iron_pickaxe/copper_pickaxe_3"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/iron_pickaxe/bronze_pickaxe"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/iron_pickaxe/bronze_pickaxe_2"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/iron_pickaxe/bronze_pickaxe_3"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/iron_pickaxe/aluminum_pickaxe"},
+        {"predicate": {"custom_model_data": 11}, "model": "item/iron_pickaxe/aluminum_pickaxe_2"},
+        {"predicate": {"custom_model_data": 12}, "model": "item/iron_pickaxe/aluminum_pickaxe_3"},
+        {"predicate": {"custom_model_data": 13}, "model": "item/iron_pickaxe/amethyst_pickaxe"},
+        {"predicate": {"custom_model_data": 14}, "model": "item/iron_pickaxe/amethyst_pickaxe_2"},
+        {"predicate": {"custom_model_data": 15}, "model": "item/iron_pickaxe/amethyst_pickaxe_3"},
+        {"predicate": {"custom_model_data": 16}, "model": "item/iron_pickaxe/ruby_pickaxe"},
+        {"predicate": {"custom_model_data": 17}, "model": "item/iron_pickaxe/ruby_pickaxe_2"},
+        {"predicate": {"custom_model_data": 18}, "model": "item/iron_pickaxe/ruby_pickaxe_3"},
+        {"predicate": {"custom_model_data": 19}, "model": "item/iron_pickaxe/spinel_pickaxe"},
+        {"predicate": {"custom_model_data": 20}, "model": "item/iron_pickaxe/spinel_pickaxe_2"},
+        {"predicate": {"custom_model_data": 21}, "model": "item/iron_pickaxe/spinel_pickaxe_3"},
+        {"predicate": {"custom_model_data": 22}, "model": "item/iron_pickaxe/kanari_pickaxe"},
+        {"predicate": {"custom_model_data": 23}, "model": "item/iron_pickaxe/kanari_pickaxe_2"},
+        {"predicate": {"custom_model_data": 24}, "model": "item/iron_pickaxe/kanari_pickaxe_3"}
+     ] 
+
+}

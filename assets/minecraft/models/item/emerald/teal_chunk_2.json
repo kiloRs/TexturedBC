@@ -1,0 +1,7 @@
+{
+  "comment":"NONE",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/drops/teal_chunk_2"
+  }
+}

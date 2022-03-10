@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_shovel/bronze_shovel_2"
+  }
+}
