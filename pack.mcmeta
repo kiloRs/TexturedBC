@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 7,
-    "description": "Pre-zipped Model Engine Resource Pack"
+    "pack_format": 4,
+    "description": "Adds a wide range of minecraft textures to text."
   }
 }

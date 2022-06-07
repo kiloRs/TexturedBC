@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/template_boots",
   "textures": {
-    "layer0": "minecraft:item/iron_boots"
+    "all": "minecraft:models/armor/iron_layer_1"
   }
 }

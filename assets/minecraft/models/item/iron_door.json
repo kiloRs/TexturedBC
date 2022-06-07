@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/template_door",
   "textures": {
-    "layer0": "minecraft:item/iron_door"
+    "top": "minecraft:block/iron_door_top",
+    "bottom": "minecraft:block/iron_door_bottom"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/template_tinted_flat",
+  "textures": {
+    "flat": "minecraft:block/lily_pad"
+  },
+    "display": {
+        "gui": {
+          "rotation": [ 30, 135, 0 ],
+          "translation": [ 0, 0, 0],
+          "scale":[ 0.625, 0.625, 0.625 ]
+    }
+  }
+}
+    

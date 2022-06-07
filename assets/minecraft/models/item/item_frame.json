@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/template_item_frame",
   "textures": {
-    "layer0": "minecraft:item/item_frame"
+    "back": "minecraft:block/item_frame",
+    "wood": "minecraft:block/birch_planks"
   }
 }

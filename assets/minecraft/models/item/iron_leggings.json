@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/template_leggings",
   "textures": {
-    "layer0": "minecraft:item/iron_leggings"
+    "all": "minecraft:models/armor/iron_layer_2"
   }
 }
